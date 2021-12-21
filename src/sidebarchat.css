@@ -1,0 +1,11 @@
+.sidebar_chat {
+display: flex;
+align-items: center;
+padding:20px;
+border-bottom: 1px solid #f6f6f6;
+cursor: pointer;
+}
+
+.sidebar_chat :hover {
+    background-color: #ebebeb;
+}
